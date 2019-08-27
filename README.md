@@ -13,7 +13,7 @@
 - Sounds
 
 ### Game Core
-No info
+Use game bugs, engines, systems and features
 
 #### Network engine (RPC)
 - Fake Kick Pool
